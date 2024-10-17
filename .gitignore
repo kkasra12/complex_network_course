@@ -1,1 +1,5 @@
 */Group*/
+*/.ipynb_checkpoints/*
+*/.DS_Store
+*/.idea/*
+.vscode/*
